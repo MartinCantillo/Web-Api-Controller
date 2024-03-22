@@ -58,4 +58,16 @@ public class PizzaController : ControllerBase
         PizzaService.Delete(id);
         return Accepted();
     }
+    //Actualizar una pizza
+    [HttpPut("{id}")]
+    public IActionResult Update(int id, Pizza pizza){
+        if (pizza is null || id==0)
+        {
+            return NotFound();
+        }else{
+            PizzaService.Update(pizza);
+            return Accepted(pizza);
+        }
+
+    }
 }
