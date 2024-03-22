@@ -24,13 +24,16 @@ public class PizzaController : ControllerBase
 
     //Consultar por id
     [HttpGet("{id}")]
-    public ActionResult<Pizza> GetById(int id){
+    public ActionResult<Pizza> GetById(int id)
+    {
         //Inyecto el servicio
-        var pizza=PizzaService.GetById(id);
+        var pizza = PizzaService.GetById(id);
         if (pizza is null)
         {
             return NotFound();
-        }else{
+        }
+        else
+        {
             return pizza;
         }
     }
@@ -39,8 +42,20 @@ public class PizzaController : ControllerBase
     [HttpPost]
     public AcceptedResult Create(Pizza pizza)
     {
-       
-         PizzaService.Add(pizza);
-         return Accepted(pizza);
+
+        PizzaService.Add(pizza);
+        return Accepted(pizza);
+    }
+    //Eliminar una pizza
+    [HttpDelete("{id}")]
+    public IActionResult Delete(int id)
+    {
+        
+        if (id == 0)
+        {
+            return NotFound();
+        }
+        PizzaService.Delete(id);
+        return Accepted();
     }
 }
