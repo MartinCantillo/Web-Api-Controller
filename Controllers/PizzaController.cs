@@ -19,9 +19,28 @@ public class PizzaController : ControllerBase
 
     }
     //Obtener todos las pizzas get
-    [HttpGet]
+    [HttpGet("GetAllPizzas")]
     public ActionResult<List<Pizza>> GetAll() => PizzaService.GetAll();
 
     //Consultar por id
+    [HttpGet("{id}")]
+    public ActionResult<Pizza> GetById(int id){
+        //Inyecto el servicio
+        var pizza=PizzaService.GetById(id);
+        if (pizza is null)
+        {
+            return NotFound();
+        }else{
+            return pizza;
+        }
+    }
 
+    //Agregar una pizza a la lista
+    [HttpPost]
+    public AcceptedResult Create(Pizza pizza)
+    {
+       
+         PizzaService.Add(pizza);
+         return Accepted(pizza);
+    }
 }
