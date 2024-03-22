@@ -1,0 +1,32 @@
+C:\Users\marti\OneDrive\Escritorio\Controller web api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\marti\OneDrive\Escritorio\Controller web api\bin\Debug\net8.0\appsettings.json
+C:\Users\marti\OneDrive\Escritorio\Controller web api\bin\Debug\net8.0\Controller web api.exe
+C:\Users\marti\OneDrive\Escritorio\Controller web api\bin\Debug\net8.0\Controller web api.deps.json
+C:\Users\marti\OneDrive\Escritorio\Controller web api\bin\Debug\net8.0\Controller web api.runtimeconfig.json
+C:\Users\marti\OneDrive\Escritorio\Controller web api\bin\Debug\net8.0\Controller web api.dll
+C:\Users\marti\OneDrive\Escritorio\Controller web api\bin\Debug\net8.0\Controller web api.pdb
+C:\Users\marti\OneDrive\Escritorio\Controller web api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\marti\OneDrive\Escritorio\Controller web api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marti\OneDrive\Escritorio\Controller web api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marti\OneDrive\Escritorio\Controller web api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\Controller web api.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\Controller web api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\Controller web api.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\Controller web api.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\Controller web api.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\Controller web api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\Controller web api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\staticwebassets\msbuild.Controller web api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\staticwebassets\msbuild.build.Controller web api.props
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Controller web api.props
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Controller web api.props
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\scopedcss\bundle\Controller web api.styles.css
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\Controll.DE425B24.Up2Date
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\Controller web api.dll
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\refint\Controller web api.dll
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\Controller web api.pdb
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\Controller web api.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\ref\Controller web api.dll
