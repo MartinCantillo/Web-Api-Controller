@@ -30,3 +30,4 @@ C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\refint\Co
 C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\Controller web api.pdb
 C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\Controller web api.genruntimeconfig.cache
 C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\ref\Controller web api.dll
+C:\Users\marti\OneDrive\Escritorio\Controller web api\obj\Debug\net8.0\Controller web api.sourcelink.json
